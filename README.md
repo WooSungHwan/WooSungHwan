@@ -12,18 +12,21 @@
 - [REST API Board using JPA Series](https://sas-study.tistory.com/278)
 - [Spring Security Start for RESTful API](https://sas-study.tistory.com/356)
 
-## Languages, Framework, Tools.. My Skills ##
+## Languages, Framework, Tools.. My Skills
+ ### professional
 <p align="left">
   <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="50">
   <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H.png" width="50">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkGjWF9B631zSaag25FDqF9_7UvGCDGizvFA&usqp=CAU" width="50">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJY9lvmh6cgzMRIYz51OpcNojpuhItA9dkaw&usqp=CAU" width="50">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3-8CvDCdL_FM-zaNt7r8tqZ_4uErVGtpmg&usqp=CAU" width="50">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGCk7pqHU_lvBk8dPeRxW7NWkFzZ3-i7NOeQ&usqp=CAU" width="100">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqFAkYoPhkTpX8QuJdwviFxSEAyU0Lj4Dsww&usqp=CAU" width="80">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQmtazqUM85Owk4AatRqFi-ttfJMgjovFAMw&usqp=CAU" width="70">
- 
- 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJY9lvmh6cgzMRIYz51OpcNojpuhItA9dkaw&usqp=CAU" width="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3-8CvDCdL_FM-zaNt7r8tqZ_4uErVGtpmg&usqp=CAU" width="50">
+</p>
+
+### for fun
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkGjWF9B631zSaag25FDqF9_7UvGCDGizvFA&usqp=CAU" width="50">
 </p>
 
 ## 📫 Contact me ##
