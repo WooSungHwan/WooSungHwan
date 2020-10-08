@@ -2,8 +2,8 @@
 
 - 🎓 (2013.03 ~ 2019.02) Graduated from the Department of Medical IT Marketing at **Eulji University**
 - 🎓 (2018.07 ~ 2019.01) Completion of Java/Python Programmer Course at **Ssangyong Education Center**
-- 🤔 (2019.01 ~ 2019.08) **Brainz Square** Spring Framework Developer
-- 🤔 (2019.10 ~ ing) **Station3 다방** Spring Boot Backend Developer
+- 🔭 (2019.01 ~ 2019.08) **Brainz Square** Spring Framework Developer
+- 🔭 (2019.10 ~ ing) **Station3 다방** Spring Boot Backend Developer
 
 ## Project
 - Studyfarm (2020.07 ~ ing)
