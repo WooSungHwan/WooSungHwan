@@ -6,7 +6,10 @@
 - 🔭 (2019.10 ~ ing) **Station3 다방** Spring Boot Backend Developer
 
 ## Project
-- Studyfarm (2020.07 ~ ing)
+- studyfarm (2020.07 ~ ing)
+  구성 : 서버개발자(2인), 프론트개발자(2인), 안드로이드개발자(1인), IOS개발자(1인), 디자인/기획(2인)
+  역할 : 서버개발자(Spring Boot 2.2, Spring Data JPA, Postgresql, H2, JUnit), AWS EC2 서버관리, 프로젝트 조율 등
+  
 
 ## My Recipe
 - [REST API Board using JPA Series](https://sas-study.tistory.com/278)
