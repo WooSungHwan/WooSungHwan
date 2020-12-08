@@ -3,12 +3,12 @@
 - 🎓 (2013.03 ~ 2019.02) Graduated from the Department of Medical IT Marketing at **Eulji University**
 - 🎓 (2018.07 ~ 2019.01) Completion of Java/Python Programmer Course at **Ssangyong Education Center**
 - 🔭 (2019.01 ~ 2019.08) **Brainz Square** Spring Framework Developer
-- 🔭 (2019.10 ~ ing) **Station3 다방** Spring Boot Backend Developer
+- 🔭 (2019.10 ~ ing) **Station3 다방** Java/Spring Backend Developer
 
 ## Project
 - 스터디팜 (2020.07 ~ ing) 
   - 구성 : 서버개발자(2인), 프론트개발자(2인), 안드로이드개발자(1인), IOS개발자(1인), 디자인/기획(2인) 
-  - 역할 : 서버개발자(Spring Boot 2.2, Spring Data JPA, Postgresql, H2, JUnit), AWS EC2 서버관리, 프로젝트 조율 등 
+  - 역할 : 서버개발(Spring Boot 2.2, Spring Data JPA, Postgresql, H2, JUnit), AWS EC2 서버관리, 프로젝트 조율 등 
   
 
 ## My Recipe
