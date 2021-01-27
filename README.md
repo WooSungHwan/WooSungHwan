@@ -31,6 +31,7 @@
 ### for fun
 <p align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkGjWF9B631zSaag25FDqF9_7UvGCDGizvFA&usqp=CAU" width="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T_bZGrI_fJBLQZIcei2ivoRzI7sV52dKmw&usqp=CAU" width="50">
 </p>
 
 ## 📫 Contact me ##
