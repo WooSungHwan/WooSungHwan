@@ -41,7 +41,7 @@
 ## 📫 Contact me ##
 email: doqndnffo@gmail.com  
 blog: https://sas-study.tistory.com  
-mypage: http://www.blackdogdevel.com
+mypage: http://www.blackdogdevel.com  
 regume : https://www.notion.so/c50fdbf27ecc4e9e86cb438e75395727
 
 ![sunghwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WooSungHwan&show_icons=true&count_private=true)
